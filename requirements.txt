@@ -1,0 +1,6 @@
+pandas==1.4.3
+requests
+flask
+flask-cors
+camelot-py==0.11.0
+ghostscript==0.7
